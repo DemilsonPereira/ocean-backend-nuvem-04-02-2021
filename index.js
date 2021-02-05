@@ -30,7 +30,7 @@ const { MongoClient, ObjectId } = require('mongodb');
    
 
   app.get('/', (req, res) => {
-    res.send('Glenda eu te Amo!');
+    res.send('Hellow Word!');
   });
 
   // Criar (Create)
